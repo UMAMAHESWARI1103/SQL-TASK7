@@ -31,5 +31,5 @@ The database is based on a **Hospital Management System** containing multiple re
 - Views help maintain **data abstraction** and **security**.
 - You can query a view just like a normal table.
 
-## 🗑 Dropping a View
+##  Dropping a View
 If a view is no longer needed, it can be dropped from the database to keep things clean.
